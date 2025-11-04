@@ -344,10 +344,31 @@ getUser(true)
 
 - Promise chaining (순차 실행)
 ```js
-doTask()
-  .then(step1)
-  .then(step2)
-  .then(step3)
+function step1() {
+  return new Promise(resolve => {
+    console.log("Step 1");
+    resolve(1);
+  });
+}
+
+function step2(value) {
+  return new Promise(resolve => {
+    console.log("Step 2");
+    resolve(value + 1);
+  });
+}
+
+function step3(value) {
+  return new Promise(resolve => {
+    console.log("Step 3");
+    resolve(value + 1);
+  });
+}
+
+step1()
+  .then(result => step2(result))
+  .then(result => step3(result))
+  .then(result => console.log("최종 결과:", result))
   .catch(error => console.error(error));
 ```
 
