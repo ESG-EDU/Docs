@@ -6,6 +6,8 @@
 
 > [Java 알아보기](./java)
 
+> [Javascript 알아보기](./javascript)
+
 > [React 알아보기](./react)
 
 > [Python 알아보기](./python)
