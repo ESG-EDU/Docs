@@ -12,7 +12,7 @@
 
 ### 클라우드 DevOps
 
-- [1. Linux 알아보기](./lunux)
+- [1. Linux 알아보기](./linux)
 - [2. DOCKER 알아보기](./docker)
 - [3. Kubernetes 알아보기](./kubernetes)
 - [4. Microsoft Architecture 알아보기](./msa)
