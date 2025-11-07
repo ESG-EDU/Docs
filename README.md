@@ -24,6 +24,10 @@
 
 ### ESG 데이터 및 시스템 개발
 
+- [1. ESG 알아보기](./esg)
+
+---
+
 - [GIT과 GITHUB 알아보기](./git)
 
 ### [강의노트 영상 시청하기](https://www.youtube.com/@shellfolder-study/streams)
