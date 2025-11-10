@@ -31,6 +31,7 @@
 - [6. Kaggle 알아보기](./kaggle)
 - [7. NLTK 자연어 처리 알아보기](./nltk)
 - [8. Machine Learning 알아보기](./ml)
+- [9. Hugging Face 알아보기](./huggingface)
 
 ### ESG 데이터 및 시스템 개발
 
