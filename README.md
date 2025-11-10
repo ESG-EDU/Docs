@@ -27,9 +27,10 @@
 - [2. BeautifulSoup 알아보기](./beautifulsoup)
 - [3. OpenAPI (공공데이터포털) 알아보기](./openapi)
 - [4. RSS 알아보기](./rss)
-- [5. Kaggle 알아보기](./kaggle)
-- [6. NLTK 자연어 처리 알아보기](./nltk)
-- [7. Machine Learning 알아보기](./ml)
+- [5. Visualization 알아보기](./visualization)
+- [6. Kaggle 알아보기](./kaggle)
+- [7. NLTK 자연어 처리 알아보기](./nltk)
+- [8. Machine Learning 알아보기](./ml)
 
 ### ESG 데이터 및 시스템 개발
 
