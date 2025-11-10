@@ -21,6 +21,10 @@
 ### 빅데이터 및 AI 활용
 
 - [1. Python 알아보기](./python)
+- [2. BeautifulSoup 알아보기](./beautifulsoup)
+- [3. OpenAPI (공공데이터포털) 알아보기](./openapi)
+- [4. RSS 알아보기](./rss)
+- [5. Kaggle 알아보기](./kaggle)
 
 ### ESG 데이터 및 시스템 개발
 
