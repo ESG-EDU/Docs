@@ -20,6 +20,7 @@
 - [4. Microsoft Architecture 알아보기](./msa)
 - [5. Jenkins 알아보기](./jenkins)
 - [6. AWS EC2 알아보기](./aws)
+- [7. SaaS API 알아보기](./saas_api)
 
 ### 빅데이터 및 AI 활용
 
