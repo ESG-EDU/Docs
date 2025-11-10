@@ -2,9 +2,10 @@
 
 ## (1) CSS란
 
-> CSS는 `웹 문서의 시각적 스타일(레이아웃, 색상, 타이포그래피 등)`을 정의하는 언어입니다. HTML이 구조(뼈대)를 제공하면, CSS는 그 위에 옷을 입혀 외형을 만듭니다.
+> CSS는 `웹 문서의 시각적 스타일(레이아웃, 색상, 타이포그래피 등)`을 정의하는 언어입니다. 
+> HTML이 구조(뼈대)를 제공하면, CSS는 그 위에 옷을 입혀 외형을 만듭니다.
 
-## (2) 기본 문법 (선택자 {속성:값;})
+## (2) 기본 문법
 
 ```css
 /* 선택자 {속성: 값;} */
@@ -13,22 +14,20 @@ p { color: #333; font-size: 16px; }
 
 > 적용 방법:
 
-1. 인라인: `<p style="color:red">` (권장 X)
+1. 인라인: `<p style="color:red">`
 2. 내부(style 태그): `<style>...</style>`
-3. 외부 파일: `link rel="stylesheet" href="styles.css"` ← 권장
+3. 외부 파일: `<link rel="stylesheet" href="styles.css">`
 
 ## (3) 선택자(Selectors)
 
 - **요소 선택자**: `p`, `h1`
-- **클래스**: `.btn` (재사용 가능)
-- **아이디**: `#header` (고유)
+- **클래스**: `.btn`
+- **아이디**: `#header`
 - **자식·후손**: `nav ul li` , `header > h1`
 - **속성 선택자**: `input[type="text"]`
 - **의사 클래스**: `a:hover`, `input:focus`
 - **의사 요소**: `p::first-line`, `a::after`
 - **그룹/혼합**: `.box, .card {}` , `button.primary:hover {}`
-
-> 클래스(`.class`)를 주로 사용하세요. 재사용 & 유연성 면에서 유리합니다.
 
 ## (4) 박스 모델(Box Model)
 
@@ -96,8 +95,8 @@ header { position: fixed; top: 0; left:0; right:0; }
 
 - 16진수: `#RRGGBB` / `#RGB`
 - rgb/rgba: `rgb(255,0,0)` / `rgba(255,0,0,0.5)`
-- hsl: `hsl(200, 50%, 40%)` (어울리는 색상 조절 쉬움)
-- CSS 색상 함수: `color: color-mix(...)` 등 (브라우저 지원 확인 필요)
+- hsl: `hsl(200, 50%, 40%)`
+- CSS 색상 함수: `color: color-mix(...)` (브라우저 지원 확인 필요)
 
 ## (10) 폰트와 타이포그래피
 
@@ -141,6 +140,8 @@ body {
 
 - 모바일 퍼스트(min-width) 권장
 - breakpoints: 480/768/1024/1200 기준 많이 사용
+
+<img src="./images/css-1.webp" width="600">
 
 ## (13) CSS 변수(Custom Properties)
 
