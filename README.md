@@ -2,15 +2,16 @@
 
 ### 풀스택 웹 개발
 
-- [1. Java 알아보기](./java)
-- [2. Javascript 알아보기](./javascript)
-- [3. React 알아보기](./react)
-- [4. Database 알아보기](./database)
-- [5. Elastic 알아보기](./elastic)
-- [6. Kafka 알아보기](./kafka)
-- [7. Spark 알아보기](./spark)
-- [8. html 알아보기](./html)
-- [9. css 알아보기](./css)
+- [1. html 알아보기](./html)
+- [2. css 알아보기](./css)
+- [3. Javascript 알아보기](./javascript)
+- [4. React 알아보기](./react)
+- [5. Python 알아보기](./python)
+- [6. FastAPI 알아보기](./fastapi)
+- [7. Database 알아보기](./database)
+- [8. Apache Spark 알아보기](./spark)
+- [9. Apache Kafka 알아보기](./kafka)
+- [10. Elastic 알아보기](./elastic)
 
 ### 클라우드 DevOps
 
@@ -22,19 +23,20 @@
 - [6. AWS EC2 알아보기](./aws)
 - [7. SaaS API 알아보기](./saas_api)
 
-### 빅데이터 및 AI 활용
+### AI Agent
 
-- [1. Python 알아보기](./python)
-- [2. BeautifulSoup 알아보기](./beautifulsoup)
-- [3. OpenAPI (공공데이터포털) 알아보기](./openapi)
-- [4. RSS 알아보기](./rss)
-- [5. Visualization 알아보기](./visualization)
-- [6. Kaggle 알아보기](./kaggle)
-- [7. NLTK 알아보기](./nltk)
-- [8. Machine Learning 알아보기](./ml)
-- [9. Hugging Face 알아보기](./huggingface)
+- [1. BeautifulSoup 알아보기](./beautifulsoup)
+- [2. OpenAPI (공공데이터포털) 알아보기](./openapi)
+- [3. Visualization 알아보기](./visualization)
+- [4. Kaggle 알아보기](./kaggle)
+- [5. NLP 알아보기](./nlp)
+- [6. Machine Learning 알아보기](./ml)
+- [7. Hugging Face 알아보기](./huggingface)
+- [8. Prompt Engineering 알아보기](./prompt)
+- [9. LLM (RAG, Fine Tuning) 알아보기](./llm)
+- [10. LangChain, LangGraph 알아보기](./langchain)
 
-### ESG 데이터 및 시스템 개발
+### ESG 데이터
 
 - [1. ESG 알아보기](./esg)
 - [2. ESG 표준 보고서 알아보기](./esg_gri_sasb)

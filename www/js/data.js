@@ -27,7 +27,7 @@ const data1 = [
         "data": {
             "id": "4",
             "url": "",
-            "label": "Open Api"
+            "label": "빅데이터"
         }
     },{
         "data": {
@@ -321,13 +321,19 @@ const data1 = [
         "data": {
             "id": "4-1",
             "url": "",
-            "label": "API 설계 및 구현"
+            "label": "데이터 수집"
         }
     },{
         "data": {
             "id": "4-2",
             "url": "",
-            "label": "API 수집 및 활용"
+            "label": "데이터 분석"
+        }
+    },{
+        "data": {
+            "id": "4-3",
+            "url": "",
+            "label": "AI Agent"
         }
     },{
         "data": {
@@ -343,15 +349,75 @@ const data1 = [
         }
     },{
         "data": {
-            "id": "4-2-1",
+            "id": "4-3-S",
+            "source": "4-3",
+            "target": "4"
+        }
+    },{
+        "data": {
+            "id": "4-1-1",
             "url": "https://beautiful-soup-4.readthedocs.io/en/latest/",
             "label": "BeautifulSoup"
         }
     },{
         "data": {
-            "id": "4-2-2",
+            "id": "4-1-2",
             "url": "https://www.selenium.dev/",
             "label": "Selenium"
+        }
+    },{
+        "data": {
+            "id": "4-1-3",
+            "url": "",
+            "label": "ETL"
+        }
+    },{
+        "data": {
+            "id": "4-1-4",
+            "url": "https://www.data.go.kr/",
+            "label": "Open API"
+        }
+    },{
+        "data": {
+            "id": "4-1-1-S",
+            "source": "4-1-1",
+            "target": "4-1"
+        }
+    },{
+        "data": {
+            "id": "4-1-2-S",
+            "source": "4-1-2",
+            "target": "4-1"
+        }
+    },{
+        "data": {
+            "id": "4-1-3-S",
+            "source": "4-1-3",
+            "target": "4-1"
+        }
+    },{
+        "data": {
+            "id": "4-1-4-S",
+            "source": "4-1-4",
+            "target": "4-1"
+        }
+    },{
+        "data": {
+            "id": "4-2-1",
+            "url": "",
+            "label": "Machine Learning"
+        }
+    },{
+        "data": {
+            "id": "4-2-2",
+            "url": "",
+            "label": "NLP"
+        }
+    },{
+        "data": {
+            "id": "4-2-3",
+            "url": "https://huggingface.co/docs/transformers/index",
+            "label": "Transformers"
         }
     },{
         "data": {
@@ -364,6 +430,36 @@ const data1 = [
             "id": "4-2-2-S",
             "source": "4-2-2",
             "target": "4-2"
+        }
+    },{
+        "data": {
+            "id": "4-2-3-S",
+            "source": "4-2-3",
+            "target": "4-2"
+        }
+    },{
+        "data": {
+            "id": "4-3-1",
+            "url": "https://docs.langchain.com/oss/python/langchain/overview",
+            "label": "LangChain"
+        }
+    },{
+        "data": {
+            "id": "4-3-2",
+            "url": "https://docs.langchain.com/oss/python/langgraph/overview",
+            "label": "LangGraph"
+        }
+    },{
+        "data": {
+            "id": "4-3-1-S",
+            "source": "4-3-1",
+            "target": "4-3"
+        }
+    },{
+        "data": {
+            "id": "4-3-2-S",
+            "source": "4-3-2",
+            "target": "4-3"
         }
     },{
         "data": {
