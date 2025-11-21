@@ -1,5 +1,9 @@
 # Docs Lists
 
+### [개발자 알아보기](./developer)
+
+---
+
 ### 풀스택 웹 개발
 
 - [1. html 알아보기](./html)
