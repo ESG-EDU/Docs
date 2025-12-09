@@ -1,8 +1,7 @@
 # Docs Lists
 
-### [개발자 알아보기](./developer)
-
-### [Agents - Google](./agents)
+- [개발자 알아보기](./developer)
+- [Agents - Google](./agents)
 
 ---
 
