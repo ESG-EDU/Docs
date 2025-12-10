@@ -3,7 +3,7 @@ const data1 = [
         "data": {
             "id": "0",
             "url": "https://github.com/ESG-EDU/Docs",
-            "label": "ESG 개발자"
+            "label": "AI Agent"
         }
     },{
         "data": {
