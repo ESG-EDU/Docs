@@ -19,6 +19,13 @@ git config --global user.email "사용자이메일"
 ```bash
 git config --list
 ```
+
+4. 사용자 정보 삭제
+```bash
+git config --global --unset user.name
+git config --global --unset user.email
+```
+
 ---
 
 ## github 저장소 생성 후 처음 코드 업로드
